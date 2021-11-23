@@ -6,6 +6,7 @@
 /Aircompany/bin
 /AircompanyTests/obj
 /AircompanyTests/bin
+/Net/.vs
 *.suo
 /Aircompany.v12.suo
 /AircompanyTests.v12.suo
