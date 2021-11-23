@@ -11,7 +11,7 @@
 /AircompanyTests.v12.suo
 **/logs
 logs
-
+/vs
 .vs
 **/.vs
 vs
@@ -24,3 +24,4 @@ packages
 **/packeges
 build
 **/build
+.vs/Aircompany
